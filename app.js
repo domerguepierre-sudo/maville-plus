@@ -1,0 +1,1 @@
+function start(){alert("Bienvenue dans MaVille+ 0.1");}
